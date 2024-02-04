@@ -1,0 +1,30 @@
+.forcast-hourly-text{
+    display: flex;
+    padding-top:1.5em;
+}
+.forcast-hourly-container{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.forcast-content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+.forcast-content div{
+    font-weight: 200;
+}
+.forcast-content img{
+    width: 50px;
+    padding: 5px 0px;
+}
+.forcast-content-div2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 16px;
+    font-weight: 300 !important;
+}

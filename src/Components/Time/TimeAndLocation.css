@@ -1,0 +1,9 @@
+.time-location-container{
+    background: rgba(255, 255, 255, 0.1);
+    text-align: center;
+    padding: 1px;
+}
+.time{
+    word-spacing: 5px;
+    font-size: 1.3em;
+}
